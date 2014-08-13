@@ -6,7 +6,7 @@ just links to tools, articles, scripts and snippets that I like. I welcome comme
 
 ## Email
 
-*Transactional Email Templates - MailGun*
+**Transactional Email Templates - MailGun**
 
 [Blog Post](http://blog.mailgun.com/transactional-html-email-templates/)
 
