@@ -20,3 +20,8 @@ Just links to tools, articles, scripts and snippets that I like. I welcome comme
 ##Javascript
 
 [Javascript Regular Expressions](http://bjorn.tipling.com/state-and-regular-expressions-in-javascript)
+
+
+#CSS
+
+[CSS Animation Generator](http://css3generator.com/)
