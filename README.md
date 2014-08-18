@@ -15,3 +15,8 @@ Just links to tools, articles, scripts and snippets that I like. I welcome comme
 ## Mobile Web Development
 
 [Add To Homescreen (repo)](https://github.com/cubiq/add-to-homescreen)
+
+
+##Javascript
+
+[Javascript Regular Expressions](http://bjorn.tipling.com/state-and-regular-expressions-in-javascript)
