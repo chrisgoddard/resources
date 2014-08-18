@@ -24,4 +24,20 @@ Just links to tools, articles, scripts and snippets that I like. I welcome comme
 
 #CSS
 
-[CSS Animation Generator](http://css3generator.com/)
+[CSS3 Generator](http://css3generator.com/)
+ * Border Radius
+ * Box Shadow
+ * Text Shadow
+ * RGBA
+ * @Font Face
+ * Multiple Columns
+ * Box Resize
+ * Box Sizing
+ * Outline
+ * Transition
+ * Transform
+ * Gradient
+
+[CSS3 Animation/Keyframes Generator](http://www.cssanimate.com/)
+
+[Color Scheme Designer](http://paletton.com/)
