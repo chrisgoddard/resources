@@ -21,6 +21,12 @@ Just links to tools, articles, scripts and snippets that I like. I welcome comme
 
 [Javascript Regular Expressions](http://bjorn.tipling.com/state-and-regular-expressions-in-javascript)
 
+### jQuery Plugins
+
+**Animation**
+
+[Waves Click Effect](http://publicis-indonesia.github.io/Waves/)
+
 
 #CSS
 
