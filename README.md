@@ -27,6 +27,8 @@ Just links to tools, articles, scripts and snippets that I like. I welcome comme
 
 [Waves Click Effect](http://publicis-indonesia.github.io/Waves/)
 
+[Rotation around a center point](http://jsfiddle.net/Zeaklous/jGAze/21/)
+
 
 #CSS
 
