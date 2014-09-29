@@ -53,3 +53,11 @@ Just links to tools, articles, scripts and snippets that I like. I welcome comme
 ##Boostrap
 
 [Shoelace Grid Designer](http://shoelace.io/)
+
+
+#WordPress
+
+##Database
+
+[WordPress Serialized PHP Search Replace Tool ](https://interconnectit.com/products/search-and-replace-for-wordpress-databases/)
+Works on serialized data.
