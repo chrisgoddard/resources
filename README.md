@@ -3,11 +3,11 @@ My Resources
 
 Just links to tools, articles, scripts and snippets that I like. I welcome comments and contributions.
 
-##Python
+# Python
 
-###Libraries/Packages
+## Libraries/Packages
 
-####Database
+### Database
 
 [DataSet](https://dataset.readthedocs.io/en/latest/)
 Database abstraction without a full ORM
@@ -15,12 +15,12 @@ Database abstraction without a full ORM
 [uMongo](https://github.com/Scille/umongo)
 ORM for MongoDB
 
-####String Handling
+### String Handling
 
 [Parse](https://pypi.org/project/parse/)
 String parsing using format() sytax
 
-####UI
+### UI
 
 PySimpleGui: https://github.com/MikeTheWatchGuy/PySimpleGUI
 Simple GUI for command-line tools
@@ -34,19 +34,19 @@ Flask Apps from Bootstramp Templates
 [Wag Tail](https://wagtail.io)
 Django CMS
 
-####Build
+### Build
 
 [FMan Build System](https://build-system.fman.io/)
 Package Python QT Apps as installable packages
 
-####Testing
+### Testing
 
-####Jupyter
+### Jupyter
 
 [PixieDebugger](https://medium.com/ibm-watson-data-lab/the-visual-python-debugger-for-jupyter-notebooks-youve-always-wanted-761713babc62)
 Visual python debugger for notebooks
 
-####Utilities
+### Utilities
 
 [Click](https://click.palletsprojects.com/en/7.x/)
 Command line interfaces
@@ -75,8 +75,9 @@ Resources
 [Flask Connexion REST API](https://realpython.com/flask-connexion-rest-api/)
 
 
+---- OLD ----
 
-##Javascript
+## Javascript
 
 [Javascript Regular Expressions](http://bjorn.tipling.com/state-and-regular-expressions-in-javascript)
 
@@ -89,7 +90,7 @@ Resources
 [Rotation around a center point](http://jsfiddle.net/Zeaklous/jGAze/21/)
 
 
-#CSS
+# CSS
 
 [CSS3 Generator](http://css3generator.com/)
  * Border Radius
@@ -109,14 +110,14 @@ Resources
 
 [Color Scheme Designer](http://paletton.com/)
 
-##Boostrap
+## Boostrap
 
 [Shoelace Grid Designer](http://shoelace.io/)
 
 
-#WordPress
+# WordPress
 
-##Database
+## Database
 
 [WordPress Serialized PHP Search Replace Tool ](https://interconnectit.com/products/search-and-replace-for-wordpress-databases/)
 Works on serialized data.
